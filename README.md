@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mohammed Rayyan
 
-<!--
-**mdrayyanop/mdrayyanop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder @ CodexAI Corp  
+Building AI products, SaaS, e-commerce platforms & real-world applications.
 
-Here are some ideas to get you started:
+### Currently building
+- Safero — Personal Safety Platform
+- CodexAI Corp
+- MyDubaiDirectory
+- HyderabadDirectory
+- Greatoxy Life E-commerce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+TypeScript • React • Next.js • Supabase • PostgreSQL • Cloudflare • AI/LLMs
+
+### Links
+Portfolio • LinkedIn • CodexAI Corp • Safero
